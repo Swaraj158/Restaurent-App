@@ -1,0 +1,46 @@
+.container{
+    background-color: #E3F2FD;
+    overflow: hidden;
+    max-width: 1024px;
+}
+
+.display-4{
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.nav-link{
+    font-size: x-large;
+    padding: 10px;
+    color: white;
+}
+
+a:hover{
+    color: yellow !important;
+}
+
+.navbar{
+    background-image: url("./bg1.jpg");
+    background-size: 100%;
+    color: yellow;
+}
+
+.titles{
+    background-image: url("./bg1.jpg");
+    background-size: 100%;
+    margin-left: 40px;
+}
+
+.col-3{
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-5{
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

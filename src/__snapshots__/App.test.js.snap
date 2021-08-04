@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App matches snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="App"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class=""
+        >
+          <div
+            class="row justify-content-center titles"
+          >
+            <div
+              class="col-3"
+            >
+              <img
+                src="https://st4.depositphotos.com/13872758/22065/v/450/depositphotos_220657170-stock-illustration-nautical-sea-food-restaurant-logo.jpg"
+                style="max-height: 150px;"
+              />
+            </div>
+            <div
+              class="col-5"
+            >
+              <h3
+                class="display-4"
+              >
+                SeaFood Center
+              </h3>
+            </div>
+          </div>
+        </div>
+        <header>
+          <nav
+            class="row navbar navbar-expand-lg"
+          >
+            <div
+              class="collapse navbar-collapse"
+              id="navbarSupportedContent"
+            >
+              <ul
+                class="navbar-nav mr-auto"
+              >
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="/"
+                  >
+                    Home 
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="/categories"
+                  >
+                    Categories
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="/order"
+                  >
+                    Order
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="/feedback"
+                  >
+                    FeedBack
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="/setPrice"
+                  >
+                    Set Price
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </header>
+      </div>
+      <div
+        class="container"
+      >
+        <div
+          class="cont"
+        >
+          <div
+            class="row colss"
+          >
+            <div
+              class="col-8"
+            >
+              <img
+                class="picture"
+                src="https://quotefancy.com/media/wallpaper/3840x2160/1667686-Kevin-Steele-Quote-Seafood-makes-you-live-10-years-more.jpg"
+              />
+            </div>
+            <div
+              class="col"
+            >
+              <div
+                class="row justify-content-center content"
+              >
+                <h2>
+                  Explore our Seafood Menu!
+                </h2>
+                <button
+                  class="btn btn-outline-warning btn-lg"
+                >
+                  Seafood Menu
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer
+        class="page-footer font-small"
+        style="background: white;"
+      >
+        <div
+          class="justify-content-center"
+        >
+          <div>
+            <h5>
+              Address: G 49 City Centre, 570, Mahatma Gandhi Rd, Indore, Madhya Pradesh 452001
+            </h5>
+            <h5>
+              Phone: 0731 253 0367
+            </h5>
+          </div>
+        </div>
+        <div
+          class="footer-copyright text-center py-3"
+        >
+          © 2020 Copyright:
+          <a>
+             foodcenter.com
+          </a>
+        </div>
+      </footer>
+    </div>
+  </div>
+</body>
+`;

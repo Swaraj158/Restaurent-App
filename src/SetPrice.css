@@ -1,0 +1,11 @@
+.form-select{
+    border-radius: 8px;
+    font-size: medium;
+    background-color: white;
+}
+
+.form-control{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 80%;
+}
